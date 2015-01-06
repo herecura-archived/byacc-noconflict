@@ -1,12 +1,13 @@
 pkgbase = byacc-noconflict
 	pkgdesc = Non-conflicting version of byacc not providing bison/yacc
 	pkgver = 20141006
-	pkgrel = 1
+	pkgrel = 2
 	url = http://invisible-island.net/byacc/
 	arch = i686
 	arch = x86_64
 	license = custom
 	depends = glibc
+	provides = byacc
 	source = ftp://invisible-island.net/byacc/byacc-20141006.tgz
 	source = ftp://invisible-island.net/byacc/byacc-20141006.tgz.asc
 	md5sums = 62d58192f2995f24cef41a7cb8ec9ba3

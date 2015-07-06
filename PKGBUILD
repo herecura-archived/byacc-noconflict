@@ -7,7 +7,7 @@
 pkgname=byacc-noconflict
 _pkgname=byacc
 pkgver=20141128
-pkgrel=1
+pkgrel=2
 pkgdesc="Non-conflicting version of byacc not providing bison/yacc"
 arch=('i686' 'x86_64')
 url="http://invisible-island.net/byacc/"

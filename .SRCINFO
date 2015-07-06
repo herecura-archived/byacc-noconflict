@@ -1,7 +1,7 @@
 pkgbase = byacc-noconflict
 	pkgdesc = Non-conflicting version of byacc not providing bison/yacc
 	pkgver = 20141128
-	pkgrel = 1
+	pkgrel = 2
 	url = http://invisible-island.net/byacc/
 	arch = i686
 	arch = x86_64
